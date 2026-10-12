@@ -1,10 +1,10 @@
-import appapi
+import telegram.appapi
 import telebot
 
 
 
 
-BOT_TOKEN = "8344152160:AAE3axUoaZICTEFXvAGfjiSouflfuyDqvLU"
+BOT_TOKEN = "..."
 
 bot = telebot.TeleBot( BOT_TOKEN)
 

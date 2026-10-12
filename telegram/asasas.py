@@ -6,7 +6,7 @@ import appapi
 
 
 def main () :
-    BOT_TOKEN = "8955456979:AAFCA_llqT2I774NQnHG82-SUvCS7Lekdyc"
+    BOT_TOKEN = "..."
 
 
 
